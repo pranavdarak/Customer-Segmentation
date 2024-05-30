@@ -1,4 +1,4 @@
-# Customer Segmentation App with K-means Clustering
+# Customer Segmentation with K-means Clustering
 
 ## Overview
 
